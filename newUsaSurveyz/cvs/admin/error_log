@@ -1,0 +1,6 @@
+[02-May-2019 08:06:01 UTC] PHP Warning:  move_uploaded_file(../images/popular_image/most-populer2.png): failed to open stream: No such file or directory in /home/hostingadmin/usasurveyz.com/admin/update_products.php on line 38
+[02-May-2019 08:06:01 UTC] PHP Warning:  move_uploaded_file(): Unable to move '/tmp/phpwf0ctm' to '../images/popular_image/most-populer2.png' in /home/hostingadmin/usasurveyz.com/admin/update_products.php on line 38
+[02-May-2019 08:06:46 UTC] PHP Warning:  move_uploaded_file(../images/popular_image/most-populer3.png): failed to open stream: No such file or directory in /home/hostingadmin/usasurveyz.com/admin/update_products.php on line 38
+[02-May-2019 08:06:46 UTC] PHP Warning:  move_uploaded_file(): Unable to move '/tmp/phpzkNqS1' to '../images/popular_image/most-populer3.png' in /home/hostingadmin/usasurveyz.com/admin/update_products.php on line 38
+[02-May-2019 08:08:06 UTC] PHP Warning:  move_uploaded_file(../images/popular_image/most-populer.png): failed to open stream: No such file or directory in /home/hostingadmin/usasurveyz.com/admin/update_products.php on line 38
+[02-May-2019 08:08:06 UTC] PHP Warning:  move_uploaded_file(): Unable to move '/tmp/php7xFiuP' to '../images/popular_image/most-populer.png' in /home/hostingadmin/usasurveyz.com/admin/update_products.php on line 38
